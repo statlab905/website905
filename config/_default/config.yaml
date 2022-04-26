@@ -10,8 +10,8 @@ baseURL: 'https://spontaneous-flan-886a42.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
-hasCJKLanguage: true
+defaultContentLanguage: en
+hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
