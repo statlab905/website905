@@ -18,8 +18,8 @@ Pattern Recognition, Implementation, Designing Kernels and Kernel Fisher Discrim
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2:30pm-5:30pm, Monday, 2022 Spring'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
