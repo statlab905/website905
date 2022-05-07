@@ -18,8 +18,8 @@ Thompson Sampling, Markov Decision Process, Monte Carlo Methods, Temporal-Differ
  present the Theory of the methods in our seminar, but also use some experiment to illustrate our method.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '9:30-11:30am, Tuesday, 2022 Spring'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
