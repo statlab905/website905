@@ -4,16 +4,17 @@ title: Seminar on Nonparametric Statistics
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: USTC Management Science Building and Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  # street: 450 Serra Mall
+  city: Hefei
+  region: Anhui
+  # postcode: '94305'
+  country: China
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: We cover selected topics in Kernel Learning and research progress in Nonparametric Statistics. 
+abstract: 'Our seminar consists two parts. In the first part, we cover selected topics in "Learning with Kernel", including Loss functions, Regularization,
+Pattern Recognition, Implementation, Designing Kernels and Kernel Fisher Discriminant. In the second part, we report our research progress in topics of Nonparametric Statistics, including Tree methods, two sample tests on Hyperbolic Space and Change Point Detection.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
