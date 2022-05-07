@@ -1,7 +1,7 @@
 ---
 title: Seminar on Nonparametric Statistics
 
-event: Wowchemy Conference
+event: Lab Seminar
 event_url: https://example.org
 
 location: USTC Management Science Building and Online
