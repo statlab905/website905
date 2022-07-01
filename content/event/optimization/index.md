@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: We present the basic tools in Optimization and listen the lectures presented by Prof. Bingsheng He. 
-abstract: ' We cover selected topics in "Numerical Optimization", including Line Search Method, Trust Region Method, 
+abstract: We cover selected topics in "Numerical Optimization", including Line Search Method, Trust Region Method, 
 Conjugate Gradient Method, Quasi-Newton Methods and Simplex Optimization. Besides, in the middle of the term, we listen Prof Bingsheng He from Nanjing University 
 presenting his work on Optimization.
 
