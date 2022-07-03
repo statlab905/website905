@@ -1,6 +1,8 @@
 ---
 title: Seminar on Nonparametric Statistics
 
+publishDate: '2022-07-01T00:00:00Z'
+
 summary: We cover selected topics in Kernel Learning and research progress in Nonparametric Statistics. 
 
 ---

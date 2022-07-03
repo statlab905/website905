@@ -1,6 +1,8 @@
 ---
 title: Seminar on Optimization and Algorithm
 
+publishDate: '2022-07-01T00:00:00Z'
+
 summary: We present the basic tools in Optimization and listen the lectures presented by Prof. Bingsheng He. 
 ---
 

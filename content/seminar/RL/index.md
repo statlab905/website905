@@ -1,6 +1,10 @@
 ---
 title: Seminar on Reinforcement Learning
 
+# Schedule page publish date (NOT talk date).
+publishDate: '2022-07-01T00:00:00Z'
+
+
 summary: We cover selected topics Reinforcement Learning. 
 ---
 
